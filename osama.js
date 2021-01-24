@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", () => {
   createcities();
   
   //this is to  display a default city information 
-  let defaultCity ='london';
+  let defaultCity ='Paris';
   fetchCityWeather(defaultCity);
 
   //this is to display info of searched city 
